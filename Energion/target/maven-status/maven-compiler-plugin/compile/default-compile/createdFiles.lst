@@ -1,0 +1,9 @@
+com\energion\pages\CustomViewPage.class
+com\energion\pages\CreateCampaignPage.class
+com\energion\pages\CreateLeadPage.class
+com\energion\pages\LoginPage.class
+com\energion\GenericLib\FileLib.class
+com\energion\GenericLib\BaseTest.class
+com\energion\pages\HomePage.class
+com\energion\GenericLib\IAutoConsts.class
+com\energion\GenericLib\WebDriverCommonLib.class

@@ -1,0 +1,5 @@
+com\energion\campaigns\CreateViewTest.class
+com\energion\campaigns\CreateTaskTest.class
+com\energion\campaigns\CreateCampaignTest.class
+com\energion\campaigns\FindCampaignsTest.class
+com\energion\campaigns\ViewCampaignsTest.class
