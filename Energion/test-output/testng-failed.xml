@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.energion.campaigns.CreateTaskTest">
+      <class name="com.energion.campaigns.CreateCampaignTest">
         <methods>
-          <include name="createtask"/>
+          <include name="createCampaigns"/>
         </methods>
-      </class> <!-- com.energion.campaigns.CreateTaskTest -->
+      </class> <!-- com.energion.campaigns.CreateCampaignTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

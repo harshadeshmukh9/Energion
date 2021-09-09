@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-03T12:24:35 IST" name="Default suite" finished-at="2021-09-03T12:24:43 IST" duration-ms="8317">
+  <suite started-at="2021-09-07T17:20:04 IST" name="Default suite" finished-at="2021-09-07T17:20:12 IST" duration-ms="8415">
     <groups>
     </groups>
-    <test started-at="2021-09-03T12:24:35 IST" name="Default test" finished-at="2021-09-03T12:24:43 IST" duration-ms="8317">
-      <class name="com.energion.campaigns.CreateViewTest">
-        <test-method signature="createview()[pri:0, instance:com.energion.campaigns.CreateViewTest@323b36e0]" started-at="2021-09-03T12:24:35 IST" name="createview" finished-at="2021-09-03T12:24:43 IST" duration-ms="8278" status="PASS">
+    <test started-at="2021-09-07T17:20:04 IST" name="Default test" finished-at="2021-09-07T17:20:12 IST" duration-ms="8415">
+      <class name="com.energion.campaigns.CreateCampaignTest">
+        <test-method signature="createCampaigns()[pri:0, instance:com.energion.campaigns.CreateCampaignTest@323b36e0]" started-at="2021-09-07T17:20:04 IST" name="createCampaigns" finished-at="2021-09-07T17:20:12 IST" duration-ms="8362" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createview -->
-      </class> <!-- com.energion.campaigns.CreateViewTest -->
+        </test-method> <!-- createCampaigns -->
+      </class> <!-- com.energion.campaigns.CreateCampaignTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
