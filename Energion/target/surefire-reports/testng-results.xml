@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-04T12:28:19 IST" name="Suite" finished-at="2021-09-04T12:28:33 IST" duration-ms="14164">
+  <suite started-at="2021-09-09T14:37:08 IST" name="Suite" finished-at="2021-09-09T14:37:24 IST" duration-ms="15721">
     <groups>
     </groups>
-    <test started-at="2021-09-04T12:28:19 IST" name="Test" finished-at="2021-09-04T12:28:33 IST" duration-ms="14164">
-      <class name="com.energion.campaigns.ViewCampaignsTest">
-        <test-method signature="viewCampaigns()[pri:0, instance:com.energion.campaigns.ViewCampaignsTest@5a955565]" started-at="2021-09-04T12:28:26 IST" name="viewCampaigns" finished-at="2021-09-04T12:28:29 IST" duration-ms="2352" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- viewCampaigns -->
-      </class> <!-- com.energion.campaigns.ViewCampaignsTest -->
+    <test started-at="2021-09-09T14:37:08 IST" name="Test" finished-at="2021-09-09T14:37:24 IST" duration-ms="15721">
       <class name="com.energion.campaigns.CreateCampaignTest">
-        <test-method signature="createCampaigns()[pri:0, instance:com.energion.campaigns.CreateCampaignTest@6293abcc]" started-at="2021-09-04T12:28:29 IST" name="createCampaigns" finished-at="2021-09-04T12:28:33 IST" duration-ms="4232" status="PASS">
+        <test-method signature="createCampaigns()[pri:0, instance:com.energion.campaigns.CreateCampaignTest@8317c52]" started-at="2021-09-09T14:37:20 IST" name="createCampaigns" finished-at="2021-09-09T14:37:24 IST" duration-ms="3903" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createCampaigns -->
       </class> <!-- com.energion.campaigns.CreateCampaignTest -->
+      <class name="com.energion.campaigns.ViewCampaignsTest">
+        <test-method signature="viewCampaigns()[pri:0, instance:com.energion.campaigns.ViewCampaignsTest@78ffe6dc]" started-at="2021-09-09T14:37:17 IST" name="viewCampaigns" finished-at="2021-09-09T14:37:20 IST" duration-ms="3104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewCampaigns -->
+      </class> <!-- com.energion.campaigns.ViewCampaignsTest -->
       <class name="com.energion.campaigns.CreateViewTest">
-        <test-method signature="createview()[pri:0, instance:com.energion.campaigns.CreateViewTest@6e75aa0d]" started-at="2021-09-04T12:28:19 IST" name="createview" finished-at="2021-09-04T12:28:22 IST" duration-ms="2817" status="PASS">
+        <test-method signature="createview()[pri:0, instance:com.energion.campaigns.CreateViewTest@757acd7b]" started-at="2021-09-09T14:37:09 IST" name="createview" finished-at="2021-09-09T14:37:13 IST" duration-ms="4065" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createview -->
       </class> <!-- com.energion.campaigns.CreateViewTest -->
       <class name="com.energion.campaigns.FindCampaignsTest">
-        <test-method signature="findCampaign()[pri:0, instance:com.energion.campaigns.FindCampaignsTest@13c10b87]" started-at="2021-09-04T12:28:22 IST" name="findCampaign" finished-at="2021-09-04T12:28:24 IST" duration-ms="2584" status="PASS">
+        <test-method signature="findCampaign()[pri:0, instance:com.energion.campaigns.FindCampaignsTest@4a668b6e]" started-at="2021-09-09T14:37:13 IST" name="findCampaign" finished-at="2021-09-09T14:37:15 IST" duration-ms="2392" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- findCampaign -->
       </class> <!-- com.energion.campaigns.FindCampaignsTest -->
       <class name="com.energion.campaigns.CreateTaskTest">
-        <test-method signature="createtask()[pri:0, instance:com.energion.campaigns.CreateTaskTest@6a01e23]" started-at="2021-09-04T12:28:24 IST" name="createtask" finished-at="2021-09-04T12:28:26 IST" duration-ms="2137" status="PASS">
+        <test-method signature="createtask()[pri:0, instance:com.energion.campaigns.CreateTaskTest@5f683daf]" started-at="2021-09-09T14:37:15 IST" name="createtask" finished-at="2021-09-09T14:37:17 IST" duration-ms="2219" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createtask -->
